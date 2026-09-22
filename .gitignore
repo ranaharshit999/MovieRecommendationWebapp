@@ -1,0 +1,7 @@
+# Local development settings and secrets
+.streamlit/secrets.toml
+.idea/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
